@@ -221,7 +221,7 @@ span.num {
 
 @media screen and (min-width: 600px) {
   #engagement-photo {
-    width: 450px;}
+    width: 500px;}
 
   .info-box {
       width: 125px;
@@ -233,7 +233,7 @@ span.num {
     }
 
     #honeymoon-photo {
-      height: 500px;
+      height: 600px;
       width: auto;
     }
 
